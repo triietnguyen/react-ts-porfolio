@@ -1,9 +1,9 @@
-import nestImg from '../assets/project/nestjs.png';
-import nextjsImg from '../assets/project/nextjs.jpeg';
-import reactNativeImg from '../assets/project/react-native.png';
-import reactUltimateImg from '../assets/project/react-ultimate.png';
-import springMvcImg from '../assets/project/spring-mvc.png';
-import springRestImg from '../assets/project/spring-rest.png';
+import nestImg from 'assets/project/nestjs.png';
+import nextjsImg from 'assets/project/nextjs.jpeg';
+import reactNativeImg from 'assets/project/react-native.png';
+import reactUltimateImg from 'assets/project/react-ultimate.png';
+import springMvcImg from 'assets/project/spring-mvc.png';
+import springRestImg from 'assets/project/spring-rest.png';
 
 export const APP_DATA = {
     YOUTUBE_URL: "https://www.youtube.com/@hoidanit",
@@ -65,7 +65,7 @@ export const PROJECTS = [
     {
         id: 1,
         imgPath: reactNativeImg,
-        title: "React Native Basic",
+        title: "React Native Basicccc",
         description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
         githubLink: "https://hoidanit.vn/khoa-hoc/react-native-ultimate-phat-trien-ung-dung-mobile-66e7ab4578aaf477418cb538.html",
         demoLink: "https://hoidanit.vn/khoa-hoc/react-native-ultimate-phat-trien-ung-dung-mobile-66e7ab4578aaf477418cb538.html"
