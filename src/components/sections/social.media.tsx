@@ -17,13 +17,13 @@ const SocialMedia = (props: IProps) => {
             <a href={youtube} target='_blank' className="highlight" title="Youtube Hỏi Dân IT">
                 <SiYoutubeshorts size={30} />
             </a>
-            <a href={tiktok} target='_blank' className="highlight" title="Tiktok Hỏi Dân IT">
+            {/* <a href={tiktok} target='_blank' className="highlight" title="Tiktok Hỏi Dân IT">
                 <FaTiktok size={30} />
             </a>
             <a href={udemy} target='_blank' className="highlight" title="Udemy Hỏi Dân IT">
                 <SiUdemy size={30} />
-            </a>
-            <a href={facebook} target='_blank' className="highlight" title="Facebook Hỏi Dân IT">
+            </a> */}
+            <a href={facebook} target='_blank' className="highlight" title="Facebook Chiet">
                 <FaFacebook size={30} />
             </a>
 

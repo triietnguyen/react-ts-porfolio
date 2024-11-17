@@ -6,59 +6,44 @@ import springMvcImg from 'assets/project/spring-mvc.png';
 import springRestImg from 'assets/project/spring-rest.png';
 
 export const APP_DATA = {
-    YOUTUBE_URL: "https://www.youtube.com/@hoidanit",
+    YOUTUBE_URL: "https://www.youtube.com/@igminhtriss_5254",
     TIKTOK_URL: "https://www.tiktok.com/@hoidanit",
     UDEMY_URL: "https://www.udemy.com/user/eric-7039/",
-    FACEBOOK_URL: "https://www.facebook.com/askITwithERIC/"
+    FACEBOOK_URL: "https://www.facebook.com/chiet.nhm/"
 }
 
 export const EXPERIENCES = [
     {
         id: 1,
         title: {
-            vi: "Lập Trình Viên",
-            en: "Fullstack Developer"
+            vi: "Thực tập sinh phát triển web",
+            en: "Fullstack Web Developer Intern"
         },
         company: {
-            vi: "Công ty ABCXYZ Ltd.",
-            en: "ABCXYZ Ltd."
+            vi: "Công ty TNHH Bosch Viet Nam.",
+            en: "Bosch Global Software Technologies Company Limited."
         },
         duration: {
-            vi: "Jan 2024 - Hiện tại",
-            en: "Jan 2024 - Present"
+            vi: "Tháng 5 2024 - Hiện tại",
+            en: "May 2024 - Present"
         }
     },
     {
         id: 2,
         title: {
-            vi: "Lập Trình Viên",
-            en: "Fullstack Developer"
+            vi: "Thực tập sinh phát triển di động",
+            en: "Mobile Developer Intern"
         },
 
         company: {
-            vi: "Công ty F (freelancer)",
-            en: "F (freelancer)"
+            vi: "Công Ty Giải Pháp Doanh Nghiệp Exnodes",
+            en: "Excellent Nodes Company Limited"
         },
         duration: {
-            vi: "Tháng 6/2022 - Tháng 1/2024",
-            en: "Jun 2022 - Jan 2024"
+            vi: "Tháng 1/2024 - Tháng 5/2024",
+            en: "Jan 2024 - May 2024"
         }
     },
-    {
-        id: 3,
-        title: {
-            vi: "Dự án tự làm",
-            en: "Self Employed"
-        },
-        company: {
-            vi: "Học kiến thức mới mỗi ngày",
-            en: "Code and build something in everyday."
-        },
-        duration: {
-            vi: "Tháng 1/2020 - Hiện tại",
-            en: "Jan 2020 - Present"
-        }
-    }
 ]
 
 export const PROJECTS = [
