@@ -39,7 +39,7 @@ function AppHeader() {
         >
             <Container>
                 <Link className="navbar-brand" to="/">
-                    <span className='brand-green'>
+                    <span className='brand-red'>
                         {t("appHeader.brand")}
                     </span>
                 </Link>
