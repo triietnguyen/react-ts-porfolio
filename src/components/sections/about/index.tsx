@@ -18,11 +18,11 @@ const About = () => {
                     <h3 className="text-center mb-md-5 mb-2">Know Who <span className="brand-red">I'M</span> </h3>
                     <div>
                         <div>
-                            <p> Hi Everyone, I am HoiDanIT from Hanoi, VietNam.</p>
+                            <p> Hi Everyone, I am Nguyen Hoang Minh Triet from HCM, VietNam.</p>
 
-                            <p> I am currently employed as a a freelance dev (start-up).</p>
+                            <p> I am currently finished study program at university.</p>
 
-                            <p> I have completed Bachelor's degree in Software Engineer at Hanoi University of Science and Technology (HUST).</p>
+                            <p> I have completed Bachelor's degree in Software Engineer at Hoa Sen University (HSU).</p>
                         </div>
                     </div>
                     <div>
@@ -30,8 +30,8 @@ const About = () => {
 
                         </p>
                         <ul>
-                            <li>Playing Games</li>
-                            <li>Writing Tech Blogs</li>
+                            <li>Playing Badminton</li>
+                            <li>Reading Tech Document</li>
                             <li>Travelling</li>
                         </ul>
                     </div>
@@ -66,7 +66,7 @@ const About = () => {
                                 <div className="p-3 relative">
                                     <div className="experience-container">
                                         <div className="duration-text">
-                                            <p>20xx-20xx</p>
+                                            <p>2020-2024</p>
                                         </div>
                                         <div className="details">
                                             <div className="icon">
@@ -74,7 +74,7 @@ const About = () => {
                                             </div>
                                             <div className="info">
                                                 <p className="title">Softwaren Engineer</p>
-                                                <p className="company">Hanoi University of Science and Technology (HUST)</p>
+                                                <p className="company">Hoa Sen University (HSU)</p>
                                             </div>
                                         </div>
                                     </div>
